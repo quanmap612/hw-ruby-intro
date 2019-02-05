@@ -1,0 +1,20 @@
+Name: Quinn Nguyen
+UIN: 524002419
+
+ec2-user:~/environment/hw-ruby-intro/spec (master) $ rspec part1_spec.rb
+............
+
+Finished in 0.00974 seconds (files took 0.09114 seconds to load)
+12 examples, 0 failures
+
+ec2-user:~/environment/hw-ruby-intro/spec (master) $ rspec part2_spec.rb
+..........
+
+Finished in 0.00861 seconds (files took 0.08843 seconds to load)
+10 examples, 0 failures
+
+ec2-user:~/environment/hw-ruby-intro/spec (master) $ rspec part3_spec.rb
+............
+
+Finished in 0.00935 seconds (files took 0.09201 seconds to load)
+12 examples, 0 failures
